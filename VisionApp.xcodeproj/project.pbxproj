@@ -16,6 +16,7 @@
 		A44B737623F19BEB0096D403 /* RoundedShadowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A44B737523F19BEB0096D403 /* RoundedShadowView.swift */; };
 		A44B737823F19D0F0096D403 /* RoundedShadowButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A44B737723F19D0F0096D403 /* RoundedShadowButton.swift */; };
 		A44B737A23F19D510096D403 /* RoundShadowImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A44B737923F19D510096D403 /* RoundShadowImageView.swift */; };
+		A44B738023F2EB800096D403 /* SqueezeNet.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = A44B737F23F2EB800096D403 /* SqueezeNet.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		A44B737523F19BEB0096D403 /* RoundedShadowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedShadowView.swift; sourceTree = "<group>"; };
 		A44B737723F19D0F0096D403 /* RoundedShadowButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedShadowButton.swift; sourceTree = "<group>"; };
 		A44B737923F19D510096D403 /* RoundShadowImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundShadowImageView.swift; sourceTree = "<group>"; };
+		A44B737F23F2EB800096D403 /* SqueezeNet.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SqueezeNet.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 		A44B737423F198440096D403 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				A44B737F23F2EB800096D403 /* SqueezeNet.mlmodel */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				A44B737623F19BEB0096D403 /* RoundedShadowView.swift in Sources */,
 				A44B737823F19D0F0096D403 /* RoundedShadowButton.swift in Sources */,
 				A44B736323F197C60096D403 /* CameraVC.swift in Sources */,
+				A44B738023F2EB800096D403 /* SqueezeNet.mlmodel in Sources */,
 				A44B737A23F19D510096D403 /* RoundShadowImageView.swift in Sources */,
 				A44B735F23F197C60096D403 /* AppDelegate.swift in Sources */,
 				A44B736123F197C60096D403 /* SceneDelegate.swift in Sources */,
